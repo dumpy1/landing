@@ -344,6 +344,7 @@ img {
         width: 300px;
         height: 300px;
         border-width: 10px;
+        background-position: left -95px top -164px;
     }
 }
 
@@ -359,6 +360,7 @@ img {
         height: 300px;
         border-width: 10px;
         margin-bottom: 17px;
+        background-position: left -95px top -164px;
     }
 
     .hero-text {
@@ -405,6 +407,7 @@ img {
         border-width: 4px;
         background-size: cover;
         background-position: center top;
+        background-position: left -6px top -31px;
     }
 
     .hero-header {
