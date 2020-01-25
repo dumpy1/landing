@@ -106,7 +106,7 @@ img {
     height: 389px;
     background-color: #Ffbb01;
     border-radius: 50%;
-    background-image: url('./img/myphoto.png');
+    background-image: url('../img/myphoto.png');
     background-repeat: no-repeat;
     background-position: left -57px top -140px ;
     border: 13px solid #fff;
@@ -267,14 +267,14 @@ img {
 
 .input-name {
     margin-bottom: 17px;
-    background-image: url('./img/user-icon.svg');
+    background-image: url('../img/user-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
 
 }
 
 .input-phone {
-    background-image: url('./img/phone-icon.svg');
+    background-image: url('../img/phone-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
     margin-bottom: 26px;
