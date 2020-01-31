@@ -104,12 +104,13 @@ img {
 .hero-avatar {
     width: 389px;
     height: 389px;
-    background-color: #Ffbb01;
+    background-color: rgba(54, 53, 53, 0.877);
     border-radius: 50%;
-    background-image: url('../img/myphoto.png');
+    background-image: url('../img/avatar_2.png');
     background-repeat: no-repeat;
-    background-position: left -57px top -140px ;
+    background-position: left -16px top -18px ;
     border: 13px solid #fff;
+    box-shadow: inset 2px 2px 5px rgba(154, 147, 140, 0.5);
 }
 
 /* ==============features=================== */
@@ -267,14 +268,14 @@ img {
 
 .input-name {
     margin-bottom: 17px;
-    background-image: url('../img/user-icon.svg');
+    background-image: url('/img/user-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
 
 }
 
 .input-phone {
-    background-image: url('../img/phone-icon.svg');
+    background-image: url('/img/phone-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
     margin-bottom: 26px;
@@ -344,7 +345,8 @@ img {
         width: 300px;
         height: 300px;
         border-width: 10px;
-        background-position: left -95px top -164px;
+        background-position: center top;
+        background-size: cover;
     }
 }
 
@@ -360,7 +362,8 @@ img {
         height: 300px;
         border-width: 10px;
         margin-bottom: 17px;
-        background-position: left -95px top -164px;
+        background-position: center top;
+        background-size: cover;
     }
 
     .hero-text {
@@ -407,7 +410,7 @@ img {
         border-width: 4px;
         background-size: cover;
         background-position: center top;
-        background-position: left -6px top -31px;
+        background-size: cover;
     }
 
     .hero-header {
